@@ -8,6 +8,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <!-- favicon -->
+    <link rel="shortcut icon" href="favicon.ico" >
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#65daff">
+    <meta name="theme-color" content="#ffffff">
+
     <title>Subúrbio Digital - Conexão Além dos Limites Sociais</title>
 
     <!-- Bootstrap core CSS -->
@@ -44,6 +54,9 @@
               <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
             </li> -->
             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#plans">Planos</a>
+            </li>
+            <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
             </li>
             <!-- <li class="nav-item">
@@ -54,6 +67,9 @@
             </li> -->
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contact">Contato</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="http://cliente.suburbiodigital.com.br">Central</a>
             </li>
           </ul>
         </div>
@@ -87,15 +103,17 @@
               <i class="fas fa-user-alt fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Simples</h4>
-            <p class="text-muted">Realize suas pesquisas, assista seus vídeos na internet, envie suas mensagens e e-mails para o mundo, compartilhe os melhores momentos em suas redes sociais… Este é um plano de entrada, para você que busca realizar atividades comuns do dia a dia digital, de forma profissional ou casual e com o menor custo.</p>
+            <p class="text-muted">Realize pesquisas, assista vídeos na internet, troque mensagens tranquilamente com o mundo, seja pelo WhatsApp ou Telegram, envie e-mails, compartilhe suas histórias e os melhores momentos em suas redes sociais… Este é um perfil de uso simples, indicado para você que busca realizar atividades comuns do dia a dia digital, de forma profissional ou casual e com o menor custo.
+              <br>Plano Indicado: 03 Mega</br></p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Acessível</h4>
-            <p class="text-muted">Mais performance para usufruir dos benefícios da internet banda larga… Este é um plano moderado que possibilita você realizar atividades como acesso a filmes HD no Youtube ou Netflix,  jogar online em seu smartphone, além de ser possível realizar as atividades comuns, tendo o custo-benefício ao seu lado.</p>
+            <h4 class="service-heading">Intermediário</h4>
+            <p class="text-muted">Mais performance para usufruir dos benefícios da internet banda larga, como filmes e vídeos (Netflix, Youtube), downloads, redes sociais, jogos online e etc… Este é um perfil de uso intermediário indicado para você realizar atividades como acesso a conteudos multimídia, além de ser possível realizar as atividades comuns, tendo o custo-benefício ao seu lado.
+              <br>Planos Indicados: 07 Mega ou 10 Mega</br></p></p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
@@ -103,11 +121,75 @@
               <i class="fas fa-group fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Compartilhado</h4>
-            <p class="text-muted">Conecte com alta velocidade, utilize os poderes da internet para conectar vários dispositivos em um ambiente… Este é um plano intermediário ideal para sua família utilizar sem disputar por internet banda larga ou para seus clientes acessarem em seu estabelecimento e quem sabe compartilhar seu serviço nas redes sociais.</p>
+            <p class="text-muted">Conecte-se com alta velocidade, utilize os poderes da internet para conectar vários dispositivos ao mesmo tempo… Este é um perfil de uso compartilhado, ideal para deixar sua família conectada com o universo digital sem brigar por internet. Além de ser indicado para uso comercial em estabelecimentos, para que seus clientes se mantenham conectados com alta qualidade.
+              <br>Planos Indicados: 15 Mega ou Mais...</br></p>
           </div>
         </div>
       </div>
     </section>
+
+    <!-- Plans -->
+    <section id="plans">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Nossas Opções</h2>
+            <h3 class="section-subheading text-muted">Planos para você, sua família ou seu negócio</h3>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x background-tachtometer3m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-3m.png"></img></i>
+            </span>
+            <h4 class="service-heading">3 MEGA</h4>
+            <h5 class="text-muted">R$ 39,99</h5>
+          </div>
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x background-tachtometer7m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-7m.png"></img></i>
+            </span>
+            <h4 class="service-heading">7 MEGA</h4>
+            <h5 class="text-muted">R$ 64,99</h5>
+          </div>
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x background-tachtometer10m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-10m.png"></img></i>
+            </span>
+            <h4 class="service-heading">10 MEGA</h4>
+            <h5 class="text-muted">R$ 89,99</h5>
+          </div>
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x background-tachtometer15m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-15m.png"></img></i>
+            </span>
+            <h4 class="service-heading">15 MEGA</h4>
+            <h5 class="text-muted">R$ 124,99</h5>
+          </div>
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x background-tachtometer20m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-Xm.png"></img></i>
+            </span>
+            <h4 class="service-heading">20 MEGA</h4>
+            <h5 class="text-muted">R$ 149,99</h5>
+          </div>
+          <div class="col-md-2">
+            <span class="fa-stack fa-4x">
+              <i class="fas fa-circle fa-stack-2x  background-tachtometer25m"></i>
+              <i class="fas fa-stack-1x fa-inverse"><img class="tachtometer-icons" src="img/icons/velo-Xm.png"></img></i>
+            </span>
+            <h4 class="service-heading">25 MEGA</h4>
+            <h5 class="text-muted">R$ 179,99</h5>
+          </div>
+        </div>
+      </div>
+    </section>
+
 
     <!-- Portfolio Grid -->
     <!-- <section class="bg-light" id="portfolio">
@@ -213,7 +295,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Quem Somos?</h2>
-            <h3 class="section-subheading text-muted">A Subúrbio Digital visa prover uma boa experiencia de uso para seus clientes, buscando entregar internet banda larga com estabilidade, confiabilidade e qualidade de forma acessível. Além do atendimento adequado, rápido e próximo.
+            <h3 class="section-subheading text-muted">A Subúrbio Digital visa prover uma boa experiência de uso para seus clientes, buscando entregar internet banda larga com estabilidade, confiabilidade e qualidade de forma acessível. Além do atendimento adequado, rápido e próximo.
               <br>"Conexão Além dos Limites Sociais!"</br></h3>
           </div>
         </div>
@@ -222,7 +304,7 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/1.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -236,7 +318,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/2.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -250,7 +332,7 @@
               </li>
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/3.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -264,7 +346,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/4.png" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -272,7 +354,7 @@
                     <h4 class="subheading">...</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">O time da Subúrbio Digital vem planejando novos projetos, para trazer o mundo digital cada vez mais para o seu dia dia, modificando cada vez mais a realidade. Mantendo o foco  em “Conexão além dos Limites Sociais.”</p>
+                    <p class="text-muted">O time da Subúrbio Digital vem planejando novos projetos, para trazer o mundo digital cada vez mais para o seu dia dia, modificando cada vez mais a realidade. Mantendo o foco  em Conexão além dos Limites Sociais.</p>
                   </div>
                 </div>
               </li>
@@ -409,56 +491,64 @@
     </section>
 
     <!-- Contact -->
-    <section id="contact">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Contacte-nos</h2>
-            <h3 class="section-subheading text-muted">Qualquer dúvida estamos a disposição!</h3>
+      <section id="contact">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading text-uppercase">Contacte-nos</h2>
+              <h3 class="section-subheading text-muted">Qualquer dúvida estamos a disposição!</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-12">
+              <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <input class="form-control" name="name"  id="name" type="text" placeholder="Seu Nome *" required="required" data-validation-required-message="Por favor digite seu nome.">
+                      <p class="help-block text-danger"></p>
+                    </div>
+                    <div class="form-group">
+                      <input class="form-control" name="email" id="email"  type="email" placeholder="Seu E-mail *" required="required" data-validation-required-message="Por favor, digiteu seu endereço de e-mail.">
+                      <p class="help-block text-danger"></p>
+                    </div>
+                    <div class="form-group">
+                      <input class="form-control"  name="phone" id="phone"  type="tel" placeholder="Seu Telefone *" required="required" data-validation-required-message="Por favor digite seu número de telefone.">
+                      <p class="help-block text-danger"></p>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <textarea class="form-control" name="message" id="message"  placeholder="Sua Mensagem *" required="required" data-validation-required-message="Por favor, digite sua mensagem."></textarea>
+                      <p class="help-block text-danger"></p>
+                    </div>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="col-lg-12 text-center">
+                    <div id="success"></div>
+                    <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar Mensagem</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+          <br /><br />
+          <div class="row">
+            <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Ligue para nós:</h2>
+              <h3 class="section-heading"><a href="tel:71986275165">(71) 98627-5165</a> | <a href="tel:7133971764">(71) 3397-1764</a></h3>
+            </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Seu Nome *" required="required" data-validation-required-message="Por favor digite seu nome.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Seu E-mail *" required="required" data-validation-required-message="Por favor, digiteu seu endereço de e-mail.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="Seu Telefone *" required="required" data-validation-required-message="Por favor digite seu número de telefone.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Sua Mensagem *" required="required" data-validation-required-message="Por favor, digite sua mensagem."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar Mensagem</button>
-                </div>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
+      </section>
 
     <!-- Footer -->
     <footer>
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &reg; Subúrbio Digital 2018</span>
+            <span class="copyright">Copyright &reg; Subúrbio Digital 2018</span><br />
+            <span> Rua Almirante Tamandaré, 104, Paripe, Salvador-BA.</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
@@ -472,6 +562,16 @@
                   <i class="fab fa-facebook-f"></i>
                 </a>
               </li>
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/suburbiodigital/">
+                  <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://api.whatsapp.com/send?phone=5571986275165&text=Olá,%20Subúrbio%20Digital!">
+                  <i class="fab fa-whatsapp"></i>
+                </a>
+              </li>
               <!-- <li class="list-inline-item">
                 <a href="#">
                   <i class="fab fa-linkedin-in"></i>
@@ -482,10 +582,10 @@
           <div class="col-md-4">
             <ul class="list-inline quicklinks">
               <li class="list-inline-item">
-                <a href="#">Privacy Policy</a>
+                <a href="#">Política de Privacidade</a>
               </li>
               <li class="list-inline-item">
-                <a href="#">Terms of Use</a>
+                <a href="#">Termos de uso</a>
               </li>
             </ul>
           </div>
